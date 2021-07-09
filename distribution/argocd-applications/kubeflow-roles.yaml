@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/jazzsir/argoflow.git
+    repoURL: https://github.com/jazzsir/argoflow2.git
     targetRevision: master
     path: distribution/kubeflow/roles
     kustomize:
